@@ -6,7 +6,7 @@ This is a command line application that allows you to turn a image into characte
 # Result
 ![demo](https://github.com/hongmei-codes/python_art/blob/master/demo/demo.jpg)
 
-Image is turned into characters that is based on pixle density of the original image. The characters are saved in a text file. You can view the demo text file **[here]()**.
+Image is turned into characters that is based on pixle density of the original image. The characters are saved in a text file. You can view the demo text file **[here](https://github.com/hongmei-codes/python_art/blob/master/demo/demo.txt)**.
 
 # How this works
 The programme goes through a few steps to convert an image into a character representation.
