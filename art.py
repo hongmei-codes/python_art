@@ -17,7 +17,7 @@ def resize_image(image, new_width=100):
     """
     width, height = image.size
     aspect_ratio = height / width
-    new_height = int(new_width * aspect_ratio)
+    new_height = int(new_width * aspect_ratio * 0.4)
     resized_image = image.resize((new_width, new_height))
 
     return resized_image

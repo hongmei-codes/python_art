@@ -6,7 +6,7 @@ This is a command line application that allows you to turn a image into characte
 # Result
 ![demo](https://github.com/hongmei-codes/python_art/blob/master/demo/demo.jpg)
 
-Image is turned into characters that is based on pixle density of the original image.
+Image is turned into characters that is based on pixle density of the original image. The characters are saved in a text file. You can view the demo text file **[here]()**.
 
 # How this works
 The programme goes through a few steps to convert an image into a character representation.
@@ -64,4 +64,8 @@ $ pip install -r requirements.txt
 ```console
 $ python art.py
 ```
-4. The result is saved in  `python_art.txt`.
+4. Enter image location when art.py promps for input and press  `enter`.
+```console
+$ Enter image location: /location/to/image.jpg
+```
+5. The result is saved in  `python_art.txt`. Open it up and have a look 🙂
