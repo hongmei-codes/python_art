@@ -4,7 +4,7 @@
 This is a command line application that allows you to turn a image into characters art. See the demo below.
 
 # Result
-![demo]()
+![demo](https://github.com/hongmei-codes/python_art/blob/master/demo/demo.jpg)
 
 Image is turned into characters that is based on pixle density of the original image.
 
@@ -55,7 +55,7 @@ for pv in pixle_values:
 ```
 
 # Try it your self
-1. Download the scripts [here]()
+1. Download the scripts [here](https://github.com/hongmei-codes/python_art/archive/master.zip)
 2. Install all the requirements by running the following command line
 ```console
 $ pip install -r requirements.txt
