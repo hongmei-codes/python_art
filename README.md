@@ -54,7 +54,7 @@ for pv in pixle_values:
 
 ```
 
-# Try it your self
+# Try it yourself 👩🏻‍💻👨🏻‍💻
 1. Download the scripts [here](https://github.com/hongmei-codes/python_art/archive/master.zip)
 2. Install all the requirements by running the following command line
 ```console
